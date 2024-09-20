@@ -1,0 +1,6 @@
+matplotlib
+numpy
+requests
+pydmd
+PyQt5
+filterpy
